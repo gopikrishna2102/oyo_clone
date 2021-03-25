@@ -1,0 +1,83 @@
+@import url( 'https://fonts.google.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../images/redoyo.webp);
+    background-size: 100% 100%;
+    height: 100vh;
+    overflow: auto;
+}
+form{
+    border: 2px solid black;
+    height: 450px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.63);
+    margin-left: 900px;
+    position: relative;
+    top: 65px;
+}
+#side1{
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.788);
+}
+#side2{
+    text-align: center;
+    height: 60px;
+}
+#side3{
+    text-align: center;
+    height: 100px;
+}
+#side4{
+    margin-left: 50px;
+    height: 30px;
+    position: relative;
+    top: 120px;
+    width: 200px;
+}
+#side5{
+    margin-left: 60px;
+    position: relative;
+    top: 130px;
+}
+#side6{
+    text-align: center;
+    top: 30px;
+    position: relative;
+    font-size: 15px;
+
+}
+#side7{
+    text-align: center;
+    top: -75px;
+    position: relative;
+
+}
+#head1{
+    font-size: 50px;
+    color: white;
+    position: relative;
+    top: -400px;
+    margin-left: 250px;
+}
+#head2{
+    color: white;
+    position: relative;
+    top: -400px;
+    margin-left: 250px;
+}
+#head3{
+    color: white;
+    position: relative;
+    top: -425px;
+    margin-left: 220px;
+}
+#header1 img{
+    height: 60px;
+    top: 550px;
+}

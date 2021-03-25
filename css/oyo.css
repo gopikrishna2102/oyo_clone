@@ -1,0 +1,160 @@
+@import url( 'https://fonts.google.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../images/new.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    overflow: auto;
+}
+#left img{
+    width: 90px;
+    height: 90px;
+}
+#leftBlock article{
+    display: flex;
+}
+#rightBlock{
+    margin-left: 1120px;
+    color: white;
+}
+#middle select{
+    margin-left: 975px;
+    position:absolute;
+    top: 25px;
+    height: 30px;
+}
+section{
+    background-color: white;
+}
+#rightBlock a{
+    position: relative;
+    top: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+#rightBlock span i{
+    position: relative;
+    top: 10px;
+    margin-left: -30px;
+}
+#container{
+    background-color: rgba(255, 255, 255, 0.007);
+    height: 400px;
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+}
+#Block1{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: -10px;
+    border: 2px solid black;
+    border-radius: 500px;
+    font-size: 30px;
+    margin-left: 280px;
+    color: purple;
+    background-color: rgba(255, 255, 255, 0.623);
+}
+#Block1 span i{
+    position: relative;
+    margin-left: -300px;
+    top: -18px;
+}
+#Block1 p{
+    position: relative;
+    top: 15px;
+    margin-left: 50px;
+}
+#Block2{
+    display: flex;
+    position: relative;
+    top: 120px;
+    margin-left: 140px;
+}
+#Block2>#side1>input{
+    height: 60px;
+    width: 200px;
+}
+#Block2>#side2>input{
+    height: 60px;
+    width: 200px;
+}
+#Block2>#side3>input{
+    height: 60px;
+    width: 200px;
+}
+#Block2 a button{
+    height: 60px;
+    width: 200px;
+}
+#leftBlock{
+    background-color: rgba(0, 0, 0, 0.514);
+}
+#container2 article{
+    display: flex;
+    background-color: gray;
+    position: relative;
+    height: 302px;
+}
+#g1{
+    position: relative;
+    top: 75px;
+    width: 100%;
+}
+#g2{
+    width: 33.3%;
+    margin-left: 20px;
+}
+#g3{
+    width: 33.3%;
+}
+#g4{
+    width: 33.3%;
+}
+#g1 img{
+    width: 400px;
+    margin-left: 120px;
+}
+#g1 p{
+    text-align: center;
+    position: relative;
+    top: -20px;
+    font-size: 20px;
+}
+#text{
+    color: purple;
+    margin-top: -10%;
+    font-size: 50px;
+    margin-left: 430px;
+    top: -400px;
+    position: relative;
+}
+#g2 ul li{
+    position: relative;
+    top: 20px;
+    margin-left: 20px;
+}
+#g3 ul li{
+    position: relative;
+    top: 50px;
+}
+#g4 ul li{
+    position: relative;
+    top: 50px;
+}
+#gk{
+    position: relative;
+    color: crimson;
+    margin-left: 5px;
+    top: 15px;
+}

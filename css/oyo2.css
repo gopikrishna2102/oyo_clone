@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+ box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../images/redoyo.webp);
+}
+form{
+    border: 2px solid black;
+    height: 450px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.63);
+    margin-left: 500px;
+    position: relative;
+    top: 65px;
+}
+#k5{
+    margin-left: 100px;
+}
+#k1{
+    width: 80%;
+    margin-left: 28px;
+    position: relative;
+    margin-top: 20px;
+}
+#k2{
+    width: 80%;
+    position: relative;
+    margin-left: 28px;
+    top: 30px;
+}
+#k3{
+    width: 80%;
+    margin-left: 28px;
+    position: relative;
+    top: 55px;
+}
+#k4{
+    width: 80%;
+    margin-left: 28px;
+    position: relative;
+    top: 60px;
+    color: white;
+    background-color: black;
+}
